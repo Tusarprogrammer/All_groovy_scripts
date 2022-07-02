@@ -1,0 +1,1 @@
+This is a common content for log tracing which we received from a third party API
